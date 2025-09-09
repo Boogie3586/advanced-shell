@@ -28,7 +28,7 @@ This project implements a **basic custom shell** that simulates a Unix-like oper
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/advanced-shell.git
+   git clone https://github.com/Boogie3586/advanced-shell.git
    cd advanced-shell
 2. Make the shell script executable
   ```bash
