@@ -52,3 +52,18 @@ myshell> jobs
 [1] Running   sleep 10 &
 
 myshell> fg 1
+
+
+
+Error Handling
+
+Invalid commands return a clear error message.
+
+Attempts to read non-existent files or directories are handled gracefully.
+
+Deliverable 1 Requirements
+
+✅ Built-in commands implemented
+✅ Foreground & background execution supported
+✅ Job control (jobs, fg, bg) implemented
+✅ Error handling included
